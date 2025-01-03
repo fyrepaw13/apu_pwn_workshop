@@ -1,6 +1,6 @@
 # apu_pwn_workshop
 
-## Tools needed
+**Tools needed**
 
 You will need a Kali Linux VM along with the following tools
 
