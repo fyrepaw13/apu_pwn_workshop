@@ -10,6 +10,8 @@ You will need a Kali Linux VM along with the following tools
 bash -c "$(curl -fsSL https://gef.blah.cat/sh)"
 ```
 
+You can use vanilla gdb or pwndbg, whichever you are more comfortable with
+
 ### ROPGadget
 
 ```sh
