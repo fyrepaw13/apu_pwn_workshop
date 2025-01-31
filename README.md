@@ -2,7 +2,7 @@
 
 ### Tools needed
 
-You will need a Kali Linux VM along with the following tools
+You will need a Kali Linux VM, download all the files above along with the following tools
 
 ### Gdb-gef
 
