@@ -29,3 +29,5 @@ python3 -m pip install --upgrade pwntools
 ```sh
 sudo apt install checksec
 ```
+
+Would also recommend downloading a text editor like sublime text (unless you would prefer to use nano or vim then go ahead)
